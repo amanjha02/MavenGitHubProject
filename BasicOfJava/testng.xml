@@ -1,0 +1,15 @@
+
+<suite name="Suite">
+
+
+<listeners>
+        <listener class-name="TestNg.TestNgListner"/>
+</listeners>
+
+
+  <test name="Test">
+    <classes>
+      <class name="TestNg.ListnerTestcase"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
