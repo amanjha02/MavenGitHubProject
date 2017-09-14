@@ -9,7 +9,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class WebTable {
-	public static WebDriver driver;
+	/*public static WebDriver driver;
 
 	public static void WebHandle() {
 		driver = new FirefoxDriver();
@@ -33,5 +33,5 @@ public class WebTable {
 
 	public static void main(String[] args) {
 		WebHandle();
-	}
+	}*/
 }

@@ -25,5 +25,16 @@
 	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/selenium-2.53.0/libs/selenium-java-2.53.0.jar"/>
 	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/selenium-2.53.0/libs/selenium-java-2.53.0-srcs.jar"/>
 	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/selenium-2.53.0/libs/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-examples-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-excelant-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-ooxml-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-ooxml-schemas-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/poi-scratchpad-3.13-20150929.jar"/>
+	<classpathentry kind="lib" path="C:/aman/SeleniumJarFile/poi-3.13/lib/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
